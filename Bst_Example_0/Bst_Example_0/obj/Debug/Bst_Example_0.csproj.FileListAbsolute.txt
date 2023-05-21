@@ -1,0 +1,14 @@
+C:\Users\RayanGate\source\repos\Bst_Example_0\Bst_Example_0\bin\Debug\Bst_Example_0.exe.config
+C:\Users\RayanGate\source\repos\Bst_Example_0\Bst_Example_0\bin\Debug\Bst_Example_0.exe
+C:\Users\RayanGate\source\repos\Bst_Example_0\Bst_Example_0\bin\Debug\Bst_Example_0.pdb
+C:\Users\RayanGate\source\repos\Bst_Example_0\Bst_Example_0\obj\Debug\Bst_Example_0.csproj.AssemblyReference.cache
+C:\Users\RayanGate\source\repos\Bst_Example_0\Bst_Example_0\obj\Debug\Bst_Example_0.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\source\repos\Bst_Example_0\Bst_Example_0\obj\Debug\Bst_Example_0.exe
+C:\Users\RayanGate\source\repos\Bst_Example_0\Bst_Example_0\obj\Debug\Bst_Example_0.pdb
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\Bst_Example_0\Bst_Example_0\bin\Debug\Bst_Example_0.exe.config
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\Bst_Example_0\Bst_Example_0\bin\Debug\Bst_Example_0.exe
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\Bst_Example_0\Bst_Example_0\bin\Debug\Bst_Example_0.pdb
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\Bst_Example_0\Bst_Example_0\obj\Debug\Bst_Example_0.csproj.AssemblyReference.cache
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\Bst_Example_0\Bst_Example_0\obj\Debug\Bst_Example_0.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\Bst_Example_0\Bst_Example_0\obj\Debug\Bst_Example_0.exe
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\Bst_Example_0\Bst_Example_0\obj\Debug\Bst_Example_0.pdb
