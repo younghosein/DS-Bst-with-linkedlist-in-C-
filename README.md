@@ -1,1 +1,8 @@
-# DS-Bst-with-linkedlist-in-C-
+# Readme:
+ 
+---
+ 
+<h2 align='center'>Implement BST with Linkedlist in C#</h2>
+<h3 quote align='center'>Data Structure</h3 quote>
+ 
+---
